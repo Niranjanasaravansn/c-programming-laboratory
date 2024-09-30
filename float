@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{ 
+   float a,b,multi;
+   a=2.31;
+   b=3.56;
+   multi=a*b;
+   printf("%f",multi);
+   return 0;}
