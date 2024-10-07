@@ -19,7 +19,7 @@ int main()
     {
         printf("even number");
     }
-    if (n%2!=0)
+    else
 {
     printf("odd number");
 }
