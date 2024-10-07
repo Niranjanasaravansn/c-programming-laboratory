@@ -23,7 +23,7 @@ int main()
     }
     else
 {
-    printf("%d",bsssssss);
+    printf("%d",b);
 }
     return 0; 
 }
